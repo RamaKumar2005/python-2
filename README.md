@@ -1,1 +1,3 @@
-# python-2
+a=23
+b=5
+print(a+b)
